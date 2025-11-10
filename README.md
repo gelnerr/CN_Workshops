@@ -1,7 +1,7 @@
 # Code Ninjas Workshops
 ## Author: Glen Issac
 
-## <p align="center"> Beginner Course Files for Python at Code Ninjas! </p>
+## <p align="center"> Workshop Files held by me at Code Ninjas! </p>
 <div align="center">
   <img src="https://elenco.com/wp-content/uploads/2020/07/Code-Ninjas-Logo.jpg" alt="image" width="400" height="250">
 </div>
