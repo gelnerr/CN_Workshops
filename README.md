@@ -1,4 +1,4 @@
-# Code Ninjas Python Workshop
+# Code Ninjas Workshops
 ## Author: Glen Issac
 
 ## <p align="center"> Beginner Course Files for Python at Code Ninjas! </p>
